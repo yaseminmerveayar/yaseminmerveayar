@@ -4,4 +4,4 @@
 - Aynı zamanda Siber Güvenlik eğitimleri aldım. 👩‍💻
 - Kendimce ufak çaplı projeler çıkarmaya çalışıyorum. 🧾
 
-<img src="https://github-readme-stats.vercel.app/api?username=yaseminmerveayar&show_icons=true&theme=dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=yaseminmerveayar&show_icons=true"/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yaseminmerveayar"/>
