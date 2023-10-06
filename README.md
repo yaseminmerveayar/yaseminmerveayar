@@ -1,7 +1,7 @@
 <div align="center"><img src="https://gifdb.com/images/high/cartoon-character-louise-belcher-coding-is-fun-ctmkcciuc1gyxos2.gif" width="500" /></div>
 
 # Merhaba ✨
-- Ben Yasemin Merve, Kütahya Dumlupınar Üniversitesinde Bilgisayar Mühendisliği mezunuyum. 🎓
+- Heloo ben Yasemin Merve, Kütahya Dumlupınar Üniversitesinde Bilgisayar Mühendisliği mezunuyum. 🎓
 - **PHP**, **C#**, **.NET**, **Golang** :heart:, **Python** :sparkling_heart: gibi yazılım dillerinde kendimi geliştiriyorum. 👩‍💻
 - Backend alanında projeler oluşturmaktan hoşlanıyorum.:zap:
 - Aynı zamanda Siber Güvenlik eğitimleri aldım. 👩‍💻
